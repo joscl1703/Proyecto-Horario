@@ -13,8 +13,8 @@ Este sistema fue desarrollado como parte de la formación académica en ingenier
 Este proyecto es el resultado del trabajo en equipo. He subido esta versión a mi perfil personal para documentar mis aportes técnicos y el crecimiento de mi portafolio como desarrollador.
 
 * **Equipo de Desarrollo:**
-    * Endy Espinoza.
-    * Yeiderson Sequera.
+    * Endy Espinoza. (https://github.com/joscl1703)
+    * Yeiderson Sequera. (https://github.com/pongf456)
     * Gregory Orozco.
     * Lenin Iguaran. 
 * **Repositorio Original:** (https://github.com/pongf456)
